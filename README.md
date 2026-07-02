@@ -132,6 +132,7 @@ Example:
 Home Page Screenshot
 Prediction Result Screenshot
 ```
+<img width="1878" height="1146" alt="Screenshot 2026-07-02 135236" src="https://github.com/user-attachments/assets/8ea81d35-e13c-41f5-a5c4-1c2db27b9346" />
 
 ---
 
@@ -154,11 +155,11 @@ SMS Spam Collection Dataset containing labeled spam and legitimate (ham) message
 
 ## 👨‍💻 Author
 
-**Viveka Sengalvarayan**
+**Gharjana_kalaimani**
 
 AI & Data Science Student
 
-Passionate about Machine Learning, Artificial Intelligence, and Cybersecurity projects.
+Passionate about Machine Learning, Artificial Intelligence, and website development.
 
 ---
 
