@@ -124,8 +124,6 @@ http://localhost:8501
 
 ## 📸 Application Preview
 
-_Add screenshots of your application here._
-
 Example:
 
 ```
